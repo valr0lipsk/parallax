@@ -24,6 +24,18 @@ body {
   background-color: #010101;
   font-family: raleway_f, sans-serif;
   line-height: 1.55;
+  cursor: none;
+}
+
+.cursor {
+  height: 0px;
+  width: 0px;
+  background-color: #9d822b;
+  z-index: 100000000000000000000;
+  position: fixed;
+  border-radius: 50%;
+  -webkit-box-shadow: 4px 4px 20px 16px rgb(225, 213, 58);
+          box-shadow: 4px 4px 20px 16px rgb(225, 213, 58);
 }
 
 .content {
