@@ -34,8 +34,8 @@ body {
   z-index: 100000000000000000000;
   position: fixed;
   border-radius: 50%;
-  -webkit-box-shadow: 4px 4px 20px 16px rgb(225, 213, 58);
-          box-shadow: 4px 4px 20px 16px rgb(225, 213, 58);
+  -webkit-box-shadow: 4px 4px 20px 16px rgb(197, 160, 93);
+          box-shadow: 4px 4px 20px 16px rgb(197, 160, 93);
 }
 
 .content {
